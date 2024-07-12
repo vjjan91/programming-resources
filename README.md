@@ -16,3 +16,18 @@ A list of useful links for learning GitHub basics are linked below:
 4.  [What is Version Control?](https://datacarpentry.org/semester-biology/materials/version-control-R/)
 5.  [Basics of GitHub and all terminology](https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/2041-210X.14108)
 6.  [Software caprnetry workshop on GitHub](https://swcarpentry.github.io/git-novice/)
+
+### Ecological data wrangling resources
+
+#### Data cleaning
+
+1.  [How do I extract Waypoints from a GPS in R?](https://github.com/vjjan91/acoustics-Restoration/blob/master/code/03_extract-waypoints-from-gps.R)
+
+#### Exploratory data analysis
+
+1.  [Stratified random sampling, scaling](https://github.com/vjjan91/acoustics-Restoration/blob/master/code/01_internal-functions.R)
+
+#### Analysis
+
+1.  [Indicator species analysis](https://github.com/vjjan91/acoustics-Restoration/blob/master/code/04_indicator-species-analysis.Rmd)
+2. [Multiple regression on distance matrices](https://github.com/vjjan91/acoustics-Restoration/blob/master/code/05_multiple-regression-distance-matrices-bird-detections.Rmd)
