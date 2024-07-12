@@ -1,0 +1,33 @@
+## Recursos útiles para programación
+
+### GitHub y R
+
+Si eres nuevo con GitHub y quieres sincronizar lo con RStudio/R, la lista de cosas que necesitas hacer está en (***OJO***, están en inglés):
+
+1.  Instalar [R/RStudio](https://www.rstudio.com/) en tu computador.
+2.  Crear una cuenta en [GitHub](https://github.com/) - ¡es gratis!.
+3.  Descargar e instalar [Git](https://git-scm.com/downloads).
+
+Una lista de recursos útiles para aprender lo básico de GitHub están abajo (de nuevo, en inglés):
+
+1.  [Una guía para codigo reproducible en Ecología y Evolución](https://nhm.openrepository.com/handle/10141/622618)
+2.  [Una guía para el manejo de datos en Ecología y Evolución](https://www.britishecologicalsociety.org/wp-content/uploads/Publ_Data-Management-Booklet.pdf)
+3.  [Git feliz con R](https://happygitwithr.com/)
+4.  [Qué es un control de versión?](https://datacarpentry.org/semester-biology/materials/version-control-R/)
+5.  [Lo básico de GitHub y toda su terminología](https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/2041-210X.14108)
+6.  [Taller de carpintería en GitHub](https://swcarpentry.github.io/git-novice/)
+
+### Recursos sobre datos ecológicos
+
+#### Limpieza de datos
+
+1.  [Cómo extráigo puntos desde un GPS en R?](https://github.com/vjjan91/acoustics-Restoration/blob/master/code/03_extract-waypoints-from-gps.R)
+
+#### Análisis exploratorios de datos
+
+1.  [Muestreo estratificado aleatorio y escalonado](https://github.com/vjjan91/acoustics-Restoration/blob/master/code/01_internal-functions.R)
+
+#### Análisis
+
+1.  [Análisis de especies indicadoras](https://github.com/vjjan91/acoustics-Restoration/blob/master/code/04_indicator-species-analysis.Rmd)
+2. [Regresiones múltiples con matrices de distancia](https://github.com/vjjan91/acoustics-Restoration/blob/master/code/05_multiple-regression-distance-matrices-bird-detections.Rmd)
