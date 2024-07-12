@@ -30,4 +30,6 @@ A list of useful links for learning GitHub basics are linked below:
 #### Analysis
 
 1.  [Indicator species analysis](https://github.com/vjjan91/acoustics-Restoration/blob/master/code/04_indicator-species-analysis.Rmd)
-2. [Multiple regression on distance matrices](https://github.com/vjjan91/acoustics-Restoration/blob/master/code/05_multiple-regression-distance-matrices-bird-detections.Rmd)
+2. [Multiple regression on distance matrices](https://github.com/vjjan91/acoustics-Restoration/blob/master/code/05_multiple-regression-distance-matrices-bird-detections.Rmd)  
+
+For a spanish version of this document, please visit this [repository](https://github.com/OACColombia/programming-resources), maintained by [Orlando Acevedo-Charry](https://github.com/OACColombia).
