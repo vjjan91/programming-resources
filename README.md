@@ -15,13 +15,15 @@ A list of useful links for learning GitHub basics are linked below:
 3.  [Happy Git with R](https://happygitwithr.com/)
 4.  [What is Version Control?](https://datacarpentry.org/semester-biology/materials/version-control-R/)
 5.  [Basics of GitHub and all terminology](https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/2041-210X.14108)
-6.  [Software caprnetry workshop on GitHub](https://swcarpentry.github.io/git-novice/)
+6.  [Software carpentry workshop on GitHub](https://swcarpentry.github.io/git-novice/)
 
 ### Ecological data wrangling resources
 
 #### Data cleaning
 
-1.  [How do I extract Waypoints from a GPS in R?](https://github.com/vjjan91/acoustics-Restoration/blob/master/code/03_extract-waypoints-from-gps.R)
+1.  [How do I extract Waypoints from a GPS in R?](https://github.com/vjjan91/acoustics-Restoration/blob/master/code/03_extract-waypoints-from-gps.R)    
+2.  [How do I bind multi-part audio files into a single file?](https://github.com/vjjan91/programming-resources/blob/main/code/binding-multiPart-audio-files.R)   
+3.  [File renaming examples in R](https://github.com/vjjan91/programming-resources/blob/main/code/file-renaming-examples.R)  
 
 #### Exploratory data analysis
 
